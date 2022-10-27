@@ -48,7 +48,7 @@ const (
 	logLevelError = "error"
 	logLevelNone  = "none"
 
-	defaultDomain = "squat.ai"
+	defaultDomain = "tobilehman.com"
 )
 
 var (
